@@ -20,10 +20,15 @@ ADMIN
 
 
 ○ The product consists of the following fields:
-■ address
-■ Explanation
+
+■ title
+
+■ description
+
 ■ photo
+
 ■ Stock
+
 ■ Created and last modified
 
 =========================
