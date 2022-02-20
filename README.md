@@ -50,9 +50,9 @@ Product was in stock
 
 - copy file .env.example and rename to .env and add DB_DATABASE=shopping_cart and create new database: shopping_cart
 
-- php artisan key:generate
-
 - composer install
+
+- php artisan key:generate
 
 - npm install && npm run dev 
 
